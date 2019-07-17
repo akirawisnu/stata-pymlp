@@ -1,0 +1,8 @@
+v 0.11
+d
+d 'pymlp': multi-layer perceptrons in stata
+d
+d Distribution-Date: 20190717
+d
+f pymlp.ado
+f pymlp.sthlp
